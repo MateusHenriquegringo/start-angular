@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    background-color: black;
+}
+ol{
+    display: flex;
+}
+ol li{
+    list-style: none;
+}
